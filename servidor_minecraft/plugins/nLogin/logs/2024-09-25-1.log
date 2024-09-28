@@ -1,0 +1,43 @@
+[2024/09/25 02:29:01]: §9          __             _       
+[2024/09/25 02:29:01]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/09/25 02:29:01]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/09/25 02:29:01]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/09/25 02:29:01]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/09/25 02:29:01]: §9                  |___/            
+[2024/09/25 02:29:01]: §9 By: www.nickuc.com - V 10.4.4 DEVELOPMENT
+[2024/09/25 02:29:01]: §9 
+[2024/09/25 02:29:02]: §3[nLogin] [DEBUG] All settings were loaded in 74 ms.
+[2024/09/25 02:29:02]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/09/25 02:29:02]: §3[nLogin] [DEBUG] All plugin messages were loaded in 89 ms (languageByClient=false).
+[2024/09/25 02:29:02]: §3[nLogin] [DEBUG] All proxy settings were loaded in 1 ms.
+[2024/09/25 02:29:02]: §3[nLogin] [DEBUG] Loading database...
+[2024/09/25 02:29:02]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/09/25 02:32:58]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[2024/09/25 02:32:58]: §4[nLogin] [ERROR] §c[ProtocolLib] Failed to unhook ProtocolLib protocols.
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1605)
+	at java.base/java.util.HashMap$ValueIterator.next(HashMap.java:1633)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:52)
+	at com.google.common.collect.Iterators$ConcatenatedIterator.hasNext(Iterators.java:1400)
+	at ProtocolLib.jar//com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:289)
+	at ProtocolLib.jar//com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:283)
+	at com.nickuc.login.πργηπνπτΨζξσΓΓ.L(:125)
+	at com.nickuc.login.ζΠΨθμδμθγκΣηω.J(:93)
+	at com.nickuc.login.πφυΨεξβνΛΠψ.k(:227)
+	at com.nickuc.login.ΠχθτγπφΨλσ.N(:265)
+	at com.nickuc.login.ωωξΠζΨΛζροθδβγ.N(:77)
+	at com.nickuc.login.ετςζοζηυγς.N(:74)
+	at com.nickuc.login.πησοιΣζΩθΛδλζσ.ap(:347)
+	at com.nickuc.login.ωωξΠζΨΛζροθδβγ.disable(:54)
+	at nLogin.jar//com.nickuc.login.loader.platform.BukkitLoader.onDisable(BukkitLoader.java:37)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:290)
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:223)
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:147)
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:92)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:528)
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.disablePlugins(CraftServer.java:570)
+	at net.minecraft.server.MinecraftServer.t(MinecraftServer.java:974)
+	at net.minecraft.server.dedicated.DedicatedServer.t(DedicatedServer.java:822)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1265)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+	at java.base/java.lang.Thread.run(Thread.java:1583)

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727406233775
+  login: 1727405520443
+money: '0'
+last-account-name: OtakuGamer
+lastlocation:
+  world: f5b84e75-4a73-4690-b0f4-f6c963ba6169
+  world-name: world
+  x: -21.723312344855838
+  y: 36.19953479098019
+  z: -52.93660544791083
+  yaw: 47.14183807373047
+  pitch: 10.116726875305176
+logoutlocation:
+  world: 7f3af815-2c98-46fa-832a-9414396c99f4
+  world-name: world_nether
+  x: 15.3917140863022
+  y: 128.0
+  z: -18.15116644666669
+  yaw: 32.74492263793945
+  pitch: -8.728134155273438

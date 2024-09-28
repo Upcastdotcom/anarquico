@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727143357585
+  login: 1727143125279
+money: '0'
+last-account-name: Muessitl
+logoutlocation:
+  world: f5b84e75-4a73-4690-b0f4-f6c963ba6169
+  world-name: world
+  x: 2.999990549255194E7
+  y: 71.0
+  z: 2.999991826398964E7
+  yaw: 141.8240966796875
+  pitch: 25.499990463256836
+lastlocation:
+  world: f5b84e75-4a73-4690-b0f4-f6c963ba6169
+  world-name: world
+  x: -11.5
+  y: 57.02159999996424
+  z: -54.5
+  yaw: 0.0
+  pitch: 0.0

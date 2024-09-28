@@ -1,0 +1,243 @@
+[03:16:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:16:50] [ServerMain/INFO]: Loaded 1174 recipes
+[03:16:51] [ServerMain/INFO]: Loaded 1271 advancements
+[03:16:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:16:51] [Server thread/INFO]: Loading properties
+[03:16:51] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[03:16:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:16:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:16:52] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[03:16:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:16:52] [Server thread/INFO]: Default game type: SURVIVAL
+[03:16:52] [Server thread/INFO]: Generating keypair
+[03:16:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:16:52] [Server thread/INFO]: Using epoll channel type
+[03:16:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:16:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:16:52] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'ViaVersion' for files 'plugins/ViaVersion-5.0.3.jar' and 'plugins/ViaVersion-5.0.4-SNAPSHOT.jar' in 'plugins'
+[03:16:53] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[03:16:56] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
+[03:16:56] [Server thread/INFO]: [SpigotLibraryLoader] [HeadDrop] Loading 2 libraries... please wait
+[03:16:56] [Server thread/INFO]: [SpigotLibraryLoader] [HeadDrop] Loaded library /workspaces/anarquico/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
+[03:16:56] [Server thread/INFO]: [SpigotLibraryLoader] [HeadDrop] Loaded library /workspaces/anarquico/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[03:16:56] [Server thread/INFO]: [SpigotLibraryLoader] [HeadDrop] Loaded library /workspaces/anarquico/servidor_minecraft/libraries/org/json/json/20240303/json-20240303.jar
+[03:16:56] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[03:16:56] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[03:16:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:16:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:16:57] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:16:57] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:16:58] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[03:16:58] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[03:16:58] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-726
+[03:16:58] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[03:16:58] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[03:16:58] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.6
+[03:16:58] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[03:16:58] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[03:16:58] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
+[03:16:58] [Server thread/INFO]: [HeadDrop] Loading server plugin HeadDrop v5.2.1
+[03:16:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[03:16:58] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@5660ffb4
+[03:16:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[03:16:58] [Server thread/INFO]: [EntityClearer] Loading server plugin EntityClearer v3.6.1
+[03:16:58] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
+[03:16:58] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.8
+[03:16:58] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.7
+[03:16:59] [Server thread/INFO]: [nAntiBot] Loading server plugin nAntiBot v6.1.24
+[03:17:00] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.6+6892-3d660b8
+[03:17:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@c7b3460]
+[03:17:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:17:00] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-726
+[03:17:00] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[03:17:01] [Server thread/INFO]:         __    
+[03:17:01] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[03:17:01] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:17:01] [Server thread/INFO]: 
+[03:17:01] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:17:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:17:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:17:01] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:17:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1224ms)
+[03:17:02] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[03:17:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[03:17:02] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:17:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[03:17:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:17:03] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.7
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:17:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:17:03] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.28s)
+[03:17:03] [Server thread/INFO]:           __             _       
+[03:17:03] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[03:17:03] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[03:17:03] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[03:17:03] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[03:17:03] [Server thread/INFO]:                   |___/            
+[03:17:03] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.8 DEVELOPMENT
+[03:17:03] [Server thread/INFO]:  
+[03:17:04] [Server thread/INFO]: [nAntiBot] Enabling nAntiBot v6.1.24
+[03:17:04] [Server thread/INFO]: [nAntiBot] Successful plugin core start (took 0.30s)
+[03:17:04] [Server thread/INFO]:           _         _   _   ___       _   
+[03:17:04] [Server thread/INFO]:   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+[03:17:04] [Server thread/INFO]:  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+[03:17:04] [Server thread/INFO]:  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+[03:17:04] [Server thread/INFO]:  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+[03:17:04] [Server thread/INFO]:                                          
+[03:17:04] [Server thread/INFO]:  By: www.nickuc.com - V 6.1.24
+[03:17:04] [Server thread/INFO]: 
+[03:17:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.6+6892-3d660b8
+[03:17:05] [Folia Async Scheduler Thread #2/INFO]: [nAntiBot] Connecting to the remote server antibot.nickuc.com...
+[03:17:05] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[03:17:05] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:17:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[03:17:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:17:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:17:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:17:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:17:06] [Server thread/INFO]: Preparing level "world"
+[03:17:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:17:07] [Server thread/INFO]: Time elapsed: 181 ms
+[03:17:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:17:07] [Server thread/INFO]: Time elapsed: 65 ms
+[03:17:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:17:07] [Server thread/INFO]: Time elapsed: 145 ms
+[03:17:07] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[03:17:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[03:17:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[03:17:07] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
+[03:17:07] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
+[03:17:07] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[03:17:08] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[03:17:08] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:17:08] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:17:08] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[03:17:08] [Server thread/INFO]: [Essentials] Using locale en
+[03:17:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:17:09] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:17:09] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[03:17:09] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[03:17:09] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[03:17:09] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
+[03:17:09] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:17:09] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
+[03:17:09] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[03:17:09] [Server thread/INFO]: [HeadDrop] Enabling HeadDrop v5.2.1
+[03:17:09] [Server thread/INFO]: 
+[03:17:09] [Server thread/INFO]: ==============================
+[03:17:09] [Server thread/INFO]:      HeadDrop Plugin v5.2.1
+[03:17:09] [Server thread/INFO]: ==============================
+[03:17:09] [Server thread/INFO]: [HeadDrop] Enabled successfully!
+[03:17:09] [Server thread/INFO]: [EntityClearer] Enabling EntityClearer v3.6.1
+[03:17:09] [Server thread/INFO]: [EntityClearer] TPS monitoring activated.
+[03:17:09] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
+[03:17:09] [Server thread/INFO]: [TAB] Enabling TAB v4.1.8
+[03:17:09] [Server thread/INFO]: [TAB] Loaded NMS hook in 160ms
+[03:17:10] [Server thread/INFO]: [TAB] Enabled in 412ms
+[03:17:10] [Server thread/INFO]: Running delayed init tasks
+[03:17:10] [Server thread/INFO]: Done (19.219s)! For help, type "help"
+[03:17:10] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[03:17:10] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[03:17:10] [Server thread/INFO]: Timings Reset
+[03:17:16] [pool-22-thread-3/INFO]: [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 7.9 MB [static only], total = 500, protocol count = 43, threads = 4, took 11.97s)
+[03:17:45] [User Authenticator #0/INFO]: UUID of player kanyelover132 is 6a6c9b7d-cc3e-3456-82eb-571e71811599
+[03:17:46] [Server thread/INFO]: kanyelover132[/[0:0:0:0:0:0:0:1%0]:34408] logged in with entity id 393 at ([world_nether]12.699999988079071, 128.0, -14.180810469844957)
+[03:17:55] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user kanyelover132 has successfully logged in.
+[03:19:55] [Server thread/INFO]: kanyelover132 issued server command: /nuke
+[03:20:11] [Server thread/INFO]: kanyelover132 issued server command: /entityclearer help
+[03:20:18] [Server thread/INFO]: kanyelover132 lost connection: Disconnected
+[03:21:26] [Server thread/INFO]: Stopping the server
+[03:21:26] [Server thread/INFO]: Stopping server
+[03:21:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.6+6892-3d660b8
+[03:21:26] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:21:26] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v6.1.24
+[03:21:26] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.00s)
+[03:21:26] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
+[03:21:28] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.7
+[03:21:28] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[03:21:28] [Server thread/ERROR]: [nLogin] [ProtocolLib] Failed to unhook ProtocolLib protocols.
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1605) ~[?:?]
+	at java.util.HashMap$ValueIterator.next(HashMap.java:1633) ~[?:?]
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:52) ~[guava-32.1.2-jre.jar:?]
+	at com.google.common.collect.Iterators$ConcatenatedIterator.hasNext(Iterators.java:1400) ~[guava-32.1.2-jre.jar:?]
+	at com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:289) ~[ProtocolLib.jar:?]
+	at com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:283) ~[ProtocolLib.jar:?]
+	at com.nickuc.login.πργηπνπτΨζξσΓΓ.L(:125) ~[?:?]
+	at com.nickuc.login.ζΠΨθμδμθγκΣηω.J(:93) ~[?:?]
+	at com.nickuc.login.πφυΨεξβνΛΠψ.k(:227) ~[?:?]
+	at com.nickuc.login.ΠχθτγπφΨλσ.N(:265) ~[?:?]
+	at com.nickuc.login.ωωξΠζΨΛζροθδβγ.N(:77) ~[?:?]
+	at com.nickuc.login.ετςζοζηυγς.N(:74) ~[?:?]
+	at com.nickuc.login.πησοιΣζΩθΛδλζσ.ap(:347) ~[?:?]
+	at com.nickuc.login.ωωξΠζΨΛζροθδβγ.disable(:54) ~[?:?]
+	at com.nickuc.login.loader.platform.BukkitLoader.onDisable(BukkitLoader.java:37) ~[nLogin-10.4.8.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:290) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:223) ~[paper-1.20.4.jar:git-Paper-497]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:147) ~[paper-1.20.4.jar:git-Paper-497]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:92) ~[paper-1.20.4.jar:git-Paper-497]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:528) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.disablePlugins(CraftServer.java:570) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:974) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:822) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-497]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:21:28] [Server thread/INFO]: [TAB] Disabling TAB v4.1.8
+[03:21:28] [Server thread/INFO]: [TAB] Disabled in 0ms
+[03:21:28] [Server thread/INFO]: [SetHome] Disabling SetHome v2.0
+[03:21:28] [Server thread/INFO]: [EntityClearer] Disabling EntityClearer v3.6.1
+[03:21:28] [Server thread/INFO]: [HeadDrop] Disabling HeadDrop v5.2.1
+[03:21:28] [Server thread/INFO]: HeadDrop Disabled.
+[03:21:28] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[03:21:28] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:21:28] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[03:21:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[03:21:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
+[03:21:28] [Server thread/INFO]: [FrameDupe] Disabling FrameDupe v1.6
+[03:21:28] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[03:21:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[03:21:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:21:28] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:21:29] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:21:29] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0-SNAPSHOT-726
+[03:21:29] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[03:21:29] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[03:21:29] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:21:29] [Server thread/INFO]: Saving players
+[03:21:29] [Server thread/INFO]: Saving worlds
+[03:21:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:21:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:21:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:21:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:21:30] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 1.19s
+[03:21:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:21:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:21:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:21:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:21:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:21:31] [Server thread/INFO]: [ChunkHolderManager] Saved 650 block chunks, 650 entity chunks, 0 poi chunks in world 'world_nether' in 0.66s
+[03:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:21:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:21:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:21:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:21:31] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.12s
+[03:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:21:31] [Server thread/INFO]: Flushing Chunk IO
+[03:21:31] [Server thread/INFO]: Closing Thread Pool
+[03:21:31] [Server thread/INFO]: Closing Server

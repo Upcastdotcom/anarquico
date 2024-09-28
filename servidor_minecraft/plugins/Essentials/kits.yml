@@ -1,0 +1,8 @@
+kits:
+  dtools:
+    delay: 600
+    items:
+    - dpickaxe 64 efficiency:255 durability:255 fortune:255 name:&4UpcastTest lore:Shitty thing|the red cross
+    - dshovel 64 digspeed:255 name:penetrador:||
+    - lhelm 64 color:255,255,255 name:e lore:e
+    - daxe 64 efficiency:255 durability:255 name:testdotcom

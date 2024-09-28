@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727141830663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727407218582
+  login: 1727407066658
+  kits:
+    32k: 1727133371191
+    notch: 1727132076546
+    tools: 1727132094510
+    dtools: 1727132108671
+money: '0'
+last-account-name: kanyelover132
+logoutlocation:
+  world: 7f3af815-2c98-46fa-832a-9414396c99f4
+  world-name: world_nether
+  x: 10.464475265575196
+  y: 128.0
+  z: -4.2891567283714505
+  yaw: -129.04119873046875
+  pitch: 7.572821140289307
+lastlocation:
+  world: f5b84e75-4a73-4690-b0f4-f6c963ba6169
+  world-name: world
+  x: 2000010.2092681308
+  y: 63.0
+  z: 2000003.8527751097
+  yaw: 111.19242095947266
+  pitch: 0.5269045829772949

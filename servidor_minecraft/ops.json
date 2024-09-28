@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "9acedf38-2504-3a95-a284-44260a94bd58",
+    "name": "Hungry_Head",
+    "level": 10,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d582400e-533b-3bfe-9ba4-8ca54dc9e905",
+    "name": "OtakuGamer",
+    "level": 10,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6a6c9b7d-cc3e-3456-82eb-571e71811599",
+    "name": "kanyelover132",
+    "level": 10,
+    "bypassesPlayerLimit": false
+  }
+]
